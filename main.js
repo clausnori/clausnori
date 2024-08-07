@@ -467,9 +467,12 @@ playplay.addEventListener('click', () => {
     audioPlayer.onloadedmetadata = function() {
         audioPlayer.loop = true; // Устанавливаем повторное воспроизведение
         audioPlayer.play();
-        setupBands();
-        connectFilters();
-        draw();
+        t = []
+        if (bands <= t){
+        	setupBands();
+        	connectFilters();
+        	draw();
+        }
     }
 });
 
