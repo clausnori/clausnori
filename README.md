@@ -104,10 +104,10 @@ drwxr-xr-x  3 user user 4096 May 24 2025 ..
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=claus_nori&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"/>
+src="https://github-readme-stats.vercel.app/api?username=clausnori&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=claus_nori&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=clausnori&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"/>
 
 </div>
 
@@ -119,17 +119,17 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=claus_nori&l
 <div align="center">
 
 [![GitHub
-Streak](https://github-readme-streak-stats.herokuapp.com/?user=claus_nori&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+Streak](https://github-readme-streak-stats.herokuapp.com/?user=clausnori&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
 </div>
 
 ```bash
-┌──(claus_nori@github)-[~/profile]
+┌──(clausnori@github)-[~/profile]
 └─$ neofetch
 ```
 
 ```
-                   -`                   claus_nori@github
+                   -`                   clausnori@github
                   .o+`                  --------------
                  `ooo/                  OS: GitHub Profile
                 `+oooo:                 Host: README.md
